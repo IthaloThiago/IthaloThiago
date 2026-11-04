@@ -1,4 +1,3 @@
-```bash 
 <div align="center">
   <h1>👋 Olá, eu sou o Ithalo Thiago!</h1>
   <p><em>Estudante de Desenvolvimento de Sistemas | Futuro Desenvolvedor Full Stack</em></p>
@@ -37,4 +36,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=435&lines=Codar+é+transformar+café+em+linhas+de+código!;" alt="Typing SVG" />
 </div>
-```
