@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Ithalo Thiago!</h1>
-  <p><em>Estudante de Desenvolvimento de Sistemas | Futuro Desenvolvedor Full Stack</em></p>
+  <p><em>Estudante de Desenvolvimento de Sistemas | Futuro Desenvolvedor </em></p>
 </div>
 
 ---
