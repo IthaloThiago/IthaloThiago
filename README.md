@@ -16,10 +16,10 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,git,github,vscode" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=py,js,sql,git,github,vscode" alt="Minhas Tecnologias" />
 </div>
 
-- **Linguagens:** Python, JavaScript, SQL, HTML5, CSS3
+- **Linguagens:** Python, JavaScript, SQL
 - **Ferramentas & Ambientes:** Git, GitHub, VS Code, Terminal
 
 ---
